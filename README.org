@@ -4,7 +4,7 @@ Additional helper macros for the cffi project
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Hectarea1996/more-cffi.git   |
-| commit  | {"messa  |
+| commit  | 9990a17  |
 | systems | more-cffi |
 |---------+-------------------------------------------|
 
