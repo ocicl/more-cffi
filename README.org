@@ -4,6 +4,6 @@ Additional helper macros for the cffi project
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Hectarea1996/more-cffi.git |
-| commit  | 3bb2574                                           |
+| commit  | b16adc4                                           |
 | systems | more-cffi                                         |
 |---------+---------------------------------------------------|
