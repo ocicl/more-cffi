@@ -4,6 +4,6 @@ Additional helper macros for the cffi project
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Hectarea1996/more-cffi.git |
-| commit  | 4114d61                                           |
+| commit  | b3f101a                                           |
 | systems | affinity                                          |
 |---------+---------------------------------------------------|
