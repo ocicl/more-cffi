@@ -2,9 +2,9 @@
 
 Additional helper macros for the cffi project
 
-|---------+---------------------------------------------------|
-| source  | git:https://github.com/Hectarea1996/more-cffi.git |
-| commit  | ad02173                                           |
-| systems | affinity                                          |
-|---------+---------------------------------------------------|
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/HectareaGalbis/Affinity.git |
+| commit  | ad02173                                            |
+| systems | affinity                                           |
+|---------+----------------------------------------------------|
    
